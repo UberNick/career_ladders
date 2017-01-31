@@ -15,7 +15,8 @@
 
 ## Tools / Frameworks
 * Uses common development frameworks and tools (for example  IDE, logging tools, unit testing, performance monitoring, source control and automated build tools).
-* Is comfortable with Android SDK/Xcode
+* Is comfortable with Android Studio / Xcode
+* Is familiar with Android SDK / Foundation framework
 
 ## Code Writing
 * Basic understanding of common coding best practices (for example code formatting, source control usage, code modularity).
