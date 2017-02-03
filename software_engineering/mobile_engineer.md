@@ -15,8 +15,8 @@
 
 ## Tools / Frameworks
 * Uses common development frameworks and tools (for example  IDE, logging tools, unit testing, performance monitoring, source control and automated build tools).
-* Is comfortable with Android Studio / Xcode
-* Is familiar with Android SDK / Foundation framework
+* Is comfortable with Android Studio or Xcode
+* Is familiar with Android SDK or Foundation framework
 
 ## Code Writing
 * Basic understanding of common coding best practices (for example code formatting, source control usage, code modularity).
@@ -74,11 +74,11 @@
 
 ## Java/Swift
 * Migrate to new versions of Java/Swift
-* Understand how the object life cycle impacts on memory consumption
+* Understand how the object lifecycle impacts memory consumption
 
 # Sr. Mobile Engineer I
 ## Programming Language Knowledge
-* Familiar with more than one  programming language
+* Familiar with more than one programming language
 
 ## Database / SQL Understanding
 * Proficient at utilizing database concepts from within a programming environment
@@ -95,7 +95,7 @@
 * Deep understanding of platform/framework internals. Comfortable explaining inner workings to SE developers.
 * Analyzes possible new tools and frameworks. Recommends optimal implementation approach.
 * Proficient with common development frameworks and tools (for example  IDE, logging tools, unit testing, performance monitoring, source control and automated build tools) used within Enova.
-* Familiar with mobile dependency managers 
+* Familiar with mobile dependency managers
 
 ## Code Writing
 * Refactors existing code into maintainable and readable code.
